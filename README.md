@@ -19,3 +19,7 @@ SKILLS YOU WILL GAIN
 2. Microsoft Excel
 3. Microsoft Excel Macro
 4. Pivot Table
+
+
+#### About Macquarie University
+Macquarie is ranked among the top one per cent of universities in the world, and with a 5-star QS rating, we are recognised for producing graduates who are among the most sought-after professionals in the world. Since our foundation 54 years ago, we have aspired to be a different type of university: one focused on fostering collaboration between students, academics, industry and society.
