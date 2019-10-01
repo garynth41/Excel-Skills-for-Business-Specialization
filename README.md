@@ -2,7 +2,7 @@
 
 Learn Excel Skills for Business. Master Excel to add a highly valuable asset to your employability portfolio
 
-About this Specialization
+About this Specialization                
 
 This specialization is intended for anyone who seeks to develop one of the most critical and fundamental digital skills today. Spreadsheet software remains one of the most ubiquitous pieces of software used in workplaces across the world. Learning to confidently operate this software means adding a highly valuable asset to your employability portfolio. In the United States alone, millions of job advertisements requiring Excel skills are posted every day. Research by Burning Glass Technologies and Capital One shows that digital skills lead to higher income and better employment opportunities. At a time when digital skills jobs are growing much faster than non-digital jobs, completing this specialization will position you way ahead of others.
 
@@ -20,6 +20,10 @@ SKILLS YOU WILL GAIN
 3. Microsoft Excel Macro
 4. Pivot Table
 
+#### Instructor
+Dr Yvonne Breyer
+Program Director, Design and Experience, Global MBA
+Faculty of Business and Economics
 
 #### About Macquarie University
 Macquarie is ranked among the top one per cent of universities in the world, and with a 5-star QS rating, we are recognised for producing graduates who are among the most sought-after professionals in the world. Since our foundation 54 years ago, we have aspired to be a different type of university: one focused on fostering collaboration between students, academics, industry and society.
